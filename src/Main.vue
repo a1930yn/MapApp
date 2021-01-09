@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Vue.jsで地図アプリ</h1>
+    <h1>Application system using the common EWS message </h1>
     <vmap></vmap>
     <vcontroller></vcontroller>
   </div>
