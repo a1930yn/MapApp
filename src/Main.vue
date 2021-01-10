@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Application system using the common EWS message </h1>
+    <!--h1>Application system using the common EWS message </h1-->
     <vmap></vmap>
     <vcontroller></vcontroller>
   </div>
@@ -19,7 +19,7 @@ export default{
 
 <style scoped>
 div{
-  width: 640px;
+  width: 900px;
 }
 h1{
   text-align: center;
